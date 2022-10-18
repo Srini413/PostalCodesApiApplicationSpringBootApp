@@ -1,0 +1,5 @@
+com\htc\PostalCodesAPI\model\SubUrbCities.class
+com\htc\PostalCodesAPI\PostalCodesApiApplication.class
+com\htc\PostalCodesAPI\repository\PostalRepo.class
+com\htc\PostalCodesAPI\model\SuburbsCodes.class
+com\htc\PostalCodesAPI\contoller\BaseController.class
